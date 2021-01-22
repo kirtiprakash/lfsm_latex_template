@@ -1,0 +1,356 @@
+\begin{thebibliography}{}
+
+\bibitem[Abbe, 1873]{abbe1873}
+Abbe, E. (1873).
+\newblock Beitrage zur theorie des mikroskops und der mikroskopischen
+  wahrmehmung.
+\newblock {\em Archiv fur Mikroskopische Anatomie}, 9:413--420.
+
+\bibitem[Baddeley et~al., 2009]{baddeley2009light}
+Baddeley, D., Jayasinghe, I.~D., Cremer, C., Cannell, M.~B., and Soeller, C.
+  (2009).
+\newblock Light-induced dark states of organic fluochromes enable 30 nm
+  resolution imaging in standard media.
+\newblock {\em Biophysical journal}, 96(2):L22--L24.
+
+\bibitem[Balzarotti et~al., 2017]{balzarotti2017nanometer}
+Balzarotti, F., Eilers, Y., Gwosch, K.~C., Gynna, A.~H., Westphal, V., Stefani,
+  F.~D., Elf, J., and Hell, S.~W. (2017).
+\newblock Nanometer resolution imaging and tracking of fluorescent molecules
+  with minimal photon fluxes.
+\newblock {\em Science}, 355(6325):606--612.
+
+\bibitem[Betzig et~al., 2006]{betzig2006}
+Betzig, E., Patterson, G.~H., Sougrat, R., Lindwasser, O.~W., Olenych, S.,
+  Bonifacino, J.~S., Davidson, M.~W., Lippincott-Schwartz, J., and Hess, H.~F.
+  (2006).
+\newblock Imaging intracellular fluorescent proteins at nanometer resolution.
+\newblock {\em Science}, 313(5793):1642--1645.
+
+\bibitem[Betzig and Trautman, 1992]{betzig1992near}
+Betzig, E. and Trautman, J.~K. (1992).
+\newblock Near-field optics: microscopy, spectroscopy, and surface modification
+  beyond the diffraction limit.
+\newblock {\em Science}, 257(5067):189--196.
+
+\bibitem[Born and Wolf, 1980]{born1980principles}
+Born, M. and Wolf, E. (1980).
+\newblock {\em Principles of optics: electromagnetic theory of propagation,
+  interference and diffraction of light}.
+\newblock Elsevier.
+
+\bibitem[Chiu and Quake, 1999]{chiu1999single}
+Chiu, H. and Quake, S. (1999).
+\newblock Single-molecule fluorescence observed with mercury lamp illumination.
+\newblock {\em Biotechniques}, 27(5):1008--1014.
+
+\bibitem[Cremer and Masters, 2013]{cremer2013resolution}
+Cremer, C. and Masters, B.~R. (2013).
+\newblock Resolution enhancement techniques in microscopy.
+\newblock {\em The European Physical Journal H}, 38(3):281--344.
+
+\bibitem[Dempsey et~al., 2011]{dempsey2011evaluation}
+Dempsey, G.~T., Vaughan, J.~C., Chen, K.~H., Bates, M., and Zhuang, X. (2011).
+\newblock Evaluation of fluorophores for optimal performance in
+  localization-based super-resolution imaging.
+\newblock {\em Nature methods}, 8(12):1027--1036.
+
+\bibitem[Dertinger et~al., 2009]{dertinger2009fast}
+Dertinger, T., Colyer, R., Iyer, G., Weiss, S., and Enderlein, J. (2009).
+\newblock Fast, background-free, 3d super-resolution optical fluctuation
+  imaging (sofi).
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(52):22287--22292.
+
+\bibitem[Dickson et~al., 1997]{dickson1997off}
+Dickson, R.~M., Cubitt, A.~B., Tsien, R.~Y., and Moerner, W. (1997).
+\newblock On/off blinking and switching behaviour of single molecules of green
+  fluorescent protein.
+\newblock {\em Nature}, 388(6640):355--358.
+
+\bibitem[Diekmann et~al., 2020]{diekmann2020optimizing}
+Diekmann, R., Kahnwald, M., Schoenit, A., Deschamps, J., Matti, U., and Ries,
+  J. (2020).
+\newblock Optimizing imaging speed and excitation intensity for single-molecule
+  localization microscopy.
+\newblock {\em Nature Methods}, 17(9):909--912.
+
+\bibitem[Est{\'e}vez-Torres et~al., 2009]{estevez2009sequence}
+Est{\'e}vez-Torres, A., Crozatier, C., Diguet, A., Hara, T., Saito, H.,
+  Yoshikawa, K., and Baigl, D. (2009).
+\newblock Sequence-independent and reversible photocontrol of
+  transcription/expression systems using a photosensitive nucleic acid binder.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  106(30):12219--12223.
+
+\bibitem[F{\"o}lling et~al., 2008]{folling2008fluorescence}
+F{\"o}lling, J., Bossi, M., Bock, H., Medda, R., Wurm, C.~A., Hein, B., Jakobs,
+  S., Eggeling, C., and Hell, S.~W. (2008).
+\newblock Fluorescence nanoscopy by ground-state depletion and single-molecule
+  return.
+\newblock {\em Nature methods}, 5(11):943--945.
+
+\bibitem[Gahlmann and Moerner, 2014]{gahlmann2014exploring}
+Gahlmann, A. and Moerner, W. (2014).
+\newblock Exploring bacterial cell biology with single-molecule tracking and
+  super-resolution imaging.
+\newblock {\em Nature Reviews Microbiology}, 12(1):9--22.
+
+\bibitem[Gall and Nizami, 2016]{gall2016isolation}
+Gall, J.~G. and Nizami, Z.~F. (2016).
+\newblock Isolation of giant lampbrush chromosomes from living oocytes of frogs
+  and salamanders.
+\newblock {\em JoVE (Journal of Visualized Experiments)}, (118):e54103--e54103.
+
+\bibitem[Gerhardt et~al., 2011]{gerhardt2011detection}
+Gerhardt, I., Mai, L., Lamas-Linares, A., and Kurtsiefer, C. (2011).
+\newblock Detection of single molecules illuminated by a light-emitting diode.
+\newblock {\em Sensors}, 11(1):905--916.
+
+\bibitem[Grull et~al., 2011]{grull2011accelerating}
+Grull, F., Kirchgessner, M., Kaufmann, R., Hausmann, M., and Kebschull, U.
+  (2011).
+\newblock Accelerating image analysis for localization microscopy with fpgas.
+\newblock In {\em Field Programmable Logic and Applications (FPL), 2011
+  International Conference on}, pages 1--5. IEEE.
+
+\bibitem[Gustafsson, 2000]{gustafsson2000surpassing}
+Gustafsson, M.~G. (2000).
+\newblock Surpassing the lateral resolution limit by a factor of two using
+  structured illumination microscopy.
+\newblock {\em Journal of microscopy}, 198(2):82--87.
+
+\bibitem[Gustafsson et~al., 2016]{gustafsson2016fast}
+Gustafsson, N., Culley, S., Ashdown, G., Owen, D.~M., Pereira, P.~M., and
+  Henriques, R. (2016).
+\newblock Fast live-cell conventional fluorophore nanoscopy with imagej through
+  super-resolution radial fluctuations.
+\newblock {\em Nature Communications}, 7.
+
+\bibitem[Ha and Tinnefeld, 2012]{ha2012photophysics}
+Ha, T. and Tinnefeld, P. (2012).
+\newblock Photophysics of fluorescent probes for single-molecule biophysics and
+  super-resolution imaging.
+\newblock {\em Annual review of physical chemistry}, 63:595--617.
+
+\bibitem[Heilemann et~al., 2008]{heilemann2008subdiffraction}
+Heilemann, M., Van De~Linde, S., Sch{\"u}ttpelz, M., Kasper, R., Seefeldt, B.,
+  Mukherjee, A., Tinnefeld, P., and Sauer, M. (2008).
+\newblock Subdiffraction-resolution fluorescence imaging with conventional
+  fluorescent probes.
+\newblock {\em Angewandte Chemie International Edition}, 47(33):6172--6176.
+
+\bibitem[Heintzmann and Cremer, 1999]{heintzmann1999laterally}
+Heintzmann, R. and Cremer, C. (1999).
+\newblock Laterally modulated excitation microscopy: improvement of resolution
+  by using a diffraction grating.
+\newblock In {\em BiOS Europe'98}, pages 185--196. International Society for
+  Optics and Photonics.
+
+\bibitem[Hell and Wichmann, 1994]{hell1994breaking}
+Hell, S.~W. and Wichmann, J. (1994).
+\newblock Breaking the diffraction resolution limit by stimulated emission:
+  stimulated-emission-depletion fluorescence microscopy.
+\newblock {\em Optics letters}, 19(11):780--782.
+
+\bibitem[Hess et~al., 2006]{hess2006ultra}
+Hess, S.~T., Girirajan, T.~P., and Mason, M.~D. (2006).
+\newblock Ultra-high resolution imaging by fluorescence photoactivation
+  localization microscopy.
+\newblock {\em Biophysical journal}, 91(11):4258.
+
+\bibitem[Juette et~al., 2008]{juette2008three}
+Juette, M.~F., Gould, T.~J., Lessard, M.~D., Mlodzianoski, M.~J., Nagpure,
+  B.~S., Bennett, B.~T., Hess, S.~T., and Bewersdorf, J. (2008).
+\newblock Three-dimensional sub--100 nm resolution fluorescence microscopy of
+  thick samples.
+\newblock {\em Nature methods}, 5(6):527--529.
+
+\bibitem[Kaufmann et~al., 2012]{kaufmann2012visualization}
+Kaufmann, R., Piontek, J., Gr{\"u}ll, F., Kirchgessner, M., Rossa, J., Wolburg,
+  H., Blasig, I.~E., and Cremer, C. (2012).
+\newblock Visualization and quantitative analysis of reconstituted tight
+  junctions using localization microscopy.
+\newblock {\em PloS one}, 7(2):e31128.
+
+\bibitem[Legant et~al., 2016]{legant2016high}
+Legant, W.~R., Shao, L., Grimm, J.~B., Brown, T.~A., Milkie, D.~E., Avants,
+  B.~B., Lavis, L.~D., and Betzig, E. (2016).
+\newblock High-density three-dimensional localization microscopy across large
+  volumes.
+\newblock {\em Nature methods}, 13(4):359--365.
+
+\bibitem[Lichtman and Conchello, 2005]{lichtman2005fluorescence}
+Lichtman, J.~W. and Conchello, J.-A. (2005).
+\newblock Fluorescence microscopy.
+\newblock {\em Nature methods}, 2(12):910--919.
+
+\bibitem[Lidke et~al., 2005]{lidke2005superresolution}
+Lidke, K., Rieger, B., Jovin, T., and Heintzmann, R. (2005).
+\newblock Superresolution by localization of quantum dots using blinking
+  statistics.
+\newblock {\em Optics express}, 13(18):7052--7062.
+
+\bibitem[Lippincott-Schwartz et~al., 2003]{lippincott2003photobleaching}
+Lippincott-Schwartz, J., Altan-Bonnet, N., and Patterson, G.~H. (2003).
+\newblock Photobleaching and photoactivation: following protein dynamics in
+  living cells.
+\newblock {\em Nature Cell Biology}, page~S7.
+
+\bibitem[Lippincott-Schwartz and Patterson, 2008]{lippincott2008fluorescent}
+Lippincott-Schwartz, J. and Patterson, G.~H. (2008).
+\newblock Fluorescent proteins for photoactivation experiments.
+\newblock {\em Methods in cell biology}, 85:45--61.
+
+\bibitem[L{\"o}schberger et~al., 2012]{loschberger2012super}
+L{\"o}schberger, A., van~de Linde, S., Dabauvalle, M.-C., Rieger, B.,
+  Heilemann, M., Krohne, G., and Sauer, M. (2012).
+\newblock Super-resolution imaging visualizes the eightfold symmetry of gp210
+  proteins around the nuclear pore complex and resolves the central channel
+  with nanometer resolution.
+\newblock {\em J Cell Sci}, 125(3):570--575.
+
+\bibitem[Malki and Bortvin, 2017]{malki2017epigenetics}
+Malki, S. and Bortvin, A. (2017).
+\newblock Epigenetics and transposon control in the mammalian germline.
+\newblock In {\em Epigenetics in Human Reproduction and Development}, pages
+  1--33.
+
+\bibitem[Manley et~al., 2008]{manley2008high}
+Manley, S., Gillette, J.~M., Patterson, G.~H., Shroff, H., Hess, H.~F., Betzig,
+  E., and Lippincott-Schwartz, J. (2008).
+\newblock High-density mapping of single-molecule trajectories with
+  photoactivated localization microscopy.
+\newblock {\em Nature methods}, 5(2):155--157.
+
+\bibitem[Martens et~al., 2019]{martens2019visualisation}
+Martens, K.~J., van Beljouw, S.~P., van~der Els, S., Vink, J.~N., Baas, S.,
+  Vogelaar, G.~A., Brouns, S.~J., van Baarlen, P., Kleerebezem, M., and
+  Hohlbein, J. (2019).
+\newblock Visualisation of dcas9 target search in vivo using an open-microscopy
+  framework.
+\newblock {\em Nature communications}, 10(1):1--11.
+
+\bibitem[Mortensen et~al., 2010]{mortensen2010optimized}
+Mortensen, K.~I., Churchman, L.~S., Spudich, J.~A., and Flyvbjerg, H. (2010).
+\newblock Optimized localization analysis for single-molecule tracking and
+  super-resolution microscopy.
+\newblock {\em Nature methods}, 7(5):377--381.
+
+\bibitem[Nieuwenhuizen et~al., 2013]{nieuwenhuizen2013}
+Nieuwenhuizen, R.~P., Lidke, K.~A., Bates, M., Puig, D.~L., Grunwald, D.,
+  Stallinga, S., and Rieger, B. (2013).
+\newblock Measuring image resolution in optical nanoscopy.
+\newblock {\em Nature methods}, 10(6):557--562.
+
+\bibitem[Olivier et~al., 2013]{olivier2013simple}
+Olivier, N., Keller, D., Rajan, V.~S., G{\"o}nczy, P., and Manley, S. (2013).
+\newblock Simple buffers for 3d storm microscopy.
+\newblock {\em Biomedical optics express}, 4(6):885--899.
+
+\bibitem[Ovesn{\`y} et~al., 2014]{ovesny2014thunderstorm}
+Ovesn{\`y}, M., K{\v{r}}{\'\i}{\v{z}}ek, P., Borkovec, J., {\v{S}}vindrych, Z.,
+  and Hagen, G.~M. (2014).
+\newblock Thunderstorm: a comprehensive imagej plug-in for palm and storm data
+  analysis and super-resolution imaging.
+\newblock {\em Bioinformatics}, 30(16):2389--2390.
+
+\bibitem[Prakash, 2016]{prakash2016periodic}
+Prakash, K. (2016).
+\newblock {\em The periodic and dynamic structure of chromatin}.
+\newblock PhD thesis, Heidelberg University.
+
+\bibitem[Prakash, 2017]{prakash2017investigating}
+Prakash, K. (2017).
+\newblock Investigating chromatin organisation using single molecule
+  localisation microscopy.
+\newblock In {\em Chromatin Architecture}, pages 25--61. Springer.
+
+\bibitem[Prakash et~al., 2015]{prakash2015superresolution}
+Prakash, K., Fournier, D., Redl, S., Best, G., Borsos, M., Tiwari, V.~K.,
+  Tachibana-Konwalski, K., Ketting, R.~F., Parekh, S.~H., Cremer, C., et~al.
+  (2015).
+\newblock Superresolution imaging reveals structurally distinct periodic
+  patterns of chromatin along pachytene chromosomes.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  112(47):14635--14640.
+
+\bibitem[Rust et~al., 2006]{rust2006stochastic}
+Rust, M.~J., Bates, M., and Zhuang, X. (2006).
+\newblock Stochastic optical reconstruction microscopy (storm) provides
+  sub-diffraction-limit image resolution.
+\newblock {\em Nature methods}, 3(10):793.
+
+\bibitem[Schoen et~al., 2011]{schoen2011binding}
+Schoen, I., Ries, J., Klotzsch, E., Ewers, H., and Vogel, V. (2011).
+\newblock Binding-activated localization microscopy of dna structures.
+\newblock {\em Nano letters}, 11(9):4008--4011.
+
+\bibitem[Schwentker et~al., 2007]{a2007wide}
+Schwentker, M., Bock, H., Hofmann, M., Jakobs, S., Bewersdorf, J., Eggeling,
+  C., and Hell, S.~W. (2007).
+\newblock Wide-field subdiffraction resolft microscopy using fluorescent
+  protein photoswitching.
+\newblock {\em Microscopy research and technique}, 70(3):269--280.
+
+\bibitem[Shi et~al., 2017]{shi2017toxic}
+Shi, K.~Y., Mori, E., Nizami, Z.~F., Lin, Y., Kato, M., Xiang, S., Wu, L.~C.,
+  Ding, M., Yu, Y., Gall, J.~G., et~al. (2017).
+\newblock Toxic prn poly-dipeptides encoded by the c9orf72 repeat expansion
+  block nuclear import and export.
+\newblock {\em Proceedings of the National Academy of Sciences}, page
+  201620293.
+
+\bibitem[Stallinga and Rieger, 2012]{stallinga2012effect}
+Stallinga, S. and Rieger, B. (2012).
+\newblock The effect of background on localization uncertainty in single
+  emitter imaging.
+\newblock In {\em Biomedical Imaging (ISBI), 2012 9th IEEE International
+  Symposium on}, pages 988--991. IEEE.
+
+\bibitem[Susiarjo et~al., 2009]{susiarjo2009analyzing}
+Susiarjo, M., Rubio, C., and Hunt, P. (2009).
+\newblock Analyzing mammalian female meiosis.
+\newblock In {\em Meiosis}, pages 339--354. Springer.
+
+\bibitem[Szczurek et~al., 2014]{szczurek2014single}
+Szczurek, A.~T., Prakash, K., Lee, H.-K., Zurek-Biesiada, D.~J., Best, G.,
+  Hagmann, M., Dobrucki, J.~W., Cremer, C., and Birk, U. (2014).
+\newblock Single molecule localization microscopy of the distribution of
+  chromatin using hoechst and dapi fluorescent probes.
+\newblock {\em Nucleus}, 5(4):331--340.
+
+\bibitem[Thompson et~al., 2002]{thompson2002precise}
+Thompson, R.~E., Larson, D.~R., and Webb, W.~W. (2002).
+\newblock Precise nanometer localization analysis for individual fluorescent
+  probes.
+\newblock {\em Biophysical journal}, 82(5):2775--2783.
+
+\bibitem[Vogelsang et~al., 2010]{vogelsang2010make}
+Vogelsang, J., Steinhauer, C., Forthmann, C., Stein, I.~H., Person-Skegro, B.,
+  Cordes, T., and Tinnefeld, P. (2010).
+\newblock Make them blink: Probes for super-resolution microscopy.
+\newblock {\em ChemPhysChem}, 11(12):2475--2490.
+
+\bibitem[Willig et~al., 2006]{willig2006sted}
+Willig, K.~I., Rizzoli, S.~O., Westphal, V., Jahn, R., and Hell, S.~W. (2006).
+\newblock Sted microscopy reveals that synaptotagmin remains clustered after
+  synaptic vesicle exocytosis.
+\newblock {\em Nature}, 440(7086):935--939.
+
+\bibitem[Wolter et~al., 2012]{wolter2012rapidstorm}
+Wolter, S., L{\"o}schberger, A., Holm, T., Aufmkolk, S., Dabauvalle, M.-C., Van
+  De~Linde, S., and Sauer, M. (2012).
+\newblock rapidstorm: accurate, fast open-source software for localization
+  microscopy.
+\newblock {\em Nature methods}, 9(11):1040--1041.
+
+\bibitem[Zurek-Biesiada et~al., 2015]{zurek2015localization}
+Zurek-Biesiada, D., Szczurek, A.~T., Prakash, K., Mohana, G.~K., Lee, H.-K.,
+  Roignant, J.-Y., Birk, U., Dobrucki, J.~W., and Cremer, C. (2015).
+\newblock Localization microscopy of dna in situ using vybrant{\textregistered}
+  dyecycle violet fluorescent probe: A new approach to study nuclear
+  nanostructure at single molecule resolution.
+\newblock {\em Experimental cell research}.
+
+\end{thebibliography}
